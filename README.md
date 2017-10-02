@@ -27,7 +27,7 @@
       	<h2 style="color: black; font-size: 40px; font-family: Garamond">Learn The Cultures</h2>
       	<p style="color: gray; font-size: 20px; font-family:Garamond ">There are many different cultures in the world. This page will inform yu on what to do and what not to do during cultural events around the world. This will help you escape the embarresmentyou get when you do something that is regularly not done by people of that culture. ENJOY!</p>
         	<img src="https://static.pexels.com/photos/267946/pexels-photo-267946.jpeg" width="790" height="400" alt="Culture">
-        <div id="button"><a href="culture.html">Learn More</a></div> 
+       [[Cultures]]
       	<div id="languages">
         	<h2 style="color: black; font-size: 40px; font-family: Garamond"> Learn the Language </h2>
           <p style="color: gray; font-size: 20px; font-family:Garamond "> It gets confusing at times when you are trying to carry on a conversation with someone who knows none of your first language. It kinda gets awkward, doesnt it? Well with Travel Happy, it will have a list of the basic words in some of the main languages spoken in popular travel locations around the world. No more awkward conversations!</p>
